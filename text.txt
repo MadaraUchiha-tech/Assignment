@@ -1,0 +1,4 @@
+user=navjeet24bcs10281_db_user
+pass=YurGQmGj2IqpgOtw
+
+mongodb+srv://navjeet24bcs10281_db_user:YurGQmGj2IqpgOtw@cluster0.xnqv89o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
